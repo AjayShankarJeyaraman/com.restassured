@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/Users/agmac26/eclipse-workspace/wejha-registration-login/src/test/java/testrunner/TestRunner.java"/>
+			<item value="/Users/agmac26/eclipse-workspace/Assesment/src/test/java/Task/RegisterSteps.java"/>
+			<item value="/Users/agmac26/eclipse-workspace/Task/src/test/java/Assesment/Task2.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="ResrAssuredDemo"/>
+			<item value="Playwright"/>
+			<item value="com.wejha.automation"/>
+			<item value="com.wejha"/>
+			<item value="Com.AICTEC"/>
+			<item value="com.gmail"/>
+			<item value="Com.Gmail"/>
+			<item value="Gmail"/>
+			<item value="com.facebooktest"/>
+			<item value="Covai.co"/>
+			<item value="Agenciflow"/>
+			<item value="com.automation"/>
+			<item value="CucumberFramework"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="Automation_Api"/>
+			<item value="PlayWrightAutomation"/>
+			<item value="wejha-registration-login"/>
+			<item value="wejha"/>
+			<item value="Assesment"/>
+			<item value="gmailAutomationFramework"/>
+			<item value="Gmail"/>
+			<item value="com.Gmail"/>
+			<item value="FacebookMobileTest"/>
+			<item value="Task"/>
+			<item value="Flozy"/>
+			<item value="cucumber-selenium-framework"/>
+			<item value="Cucumber"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

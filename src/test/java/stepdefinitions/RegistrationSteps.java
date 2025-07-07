@@ -1,0 +1,1 @@
+// Duplicate step definition for 'I navigate to Wejha application' removed. Use the implementation in MyContentSteps.java 
